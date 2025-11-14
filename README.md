@@ -53,6 +53,7 @@ With the time analysis I would also suggest higher incentives for drivers workin
 
 The time analysis also reveals reduced total bookings on thursdays and fridays so incentives for drivers working on those days can be reduced.
 
+
 Root Cause Analysis on Long-Distance Trips: Investigate the nature of the Furthest Trip (Lower East Side $\rightarrow$ Crown Heights North, 144.1 Miles). Analyze similar outliers to determine if they represent profitable inter-city routes or if operational adjustments are needed to handle exceptionally long trips efficiently.
 
 # Thoughts
@@ -63,4 +64,5 @@ The current dashboard provides an excellent foundation, but expanding the time s
 
 
 ![Measures](visuals/Measures.JPG)
+
 
