@@ -60,4 +60,7 @@ Root Cause Analysis on Long-Distance Trips: Investigate the nature of the Furthe
 The current dashboard provides an excellent foundation, but expanding the time series analysis to include the full calendar year of 2024 would allow for the development of more accurate predictive models for seasonal demand. Additionally, it would be highly valuable to integrate external data, such as weather patterns or major event schedules, to further refine the operational optimization recommendations.
 
 - Here are the measures used.
+
+
 ![Measures](visuals/Measures.JPG)
+
